@@ -10,5 +10,5 @@ Then, run both client.py and client-2.py to receive a response.
 ### Expected Output:
 The expected output should be 
 
-'Hi' to client.py
+'Hi' to client.py,
 'Goodbye' to client-2.py
