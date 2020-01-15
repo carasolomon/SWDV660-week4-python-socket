@@ -1,1 +1,3 @@
-# SWDV660-week4-python-socket
+# Python Socket
+
+This is a class assignment. The instruction was to create a socket using Pyhon. 
